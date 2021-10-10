@@ -11,4 +11,5 @@ A successful process will print the following:
 1. token
 2. machines
 3. machine activity log of the first machine for the last 24 H
+
 and return the status code 200
